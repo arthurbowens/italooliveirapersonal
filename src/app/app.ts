@@ -23,11 +23,11 @@ export class App {
   ];
 
   protected readonly resultSlides = [
-    { caption: 'Antes e depois — aluna 1' },
-    { caption: 'Antes e depois — aluna 2' },
-    { caption: 'Antes e depois — aluna 3' },
-    { caption: 'Antes e depois — aluna 4' },
-    { caption: 'Antes e depois — aluna 5' },
+    { caption: 'Antes e depois, aluna 1' },
+    { caption: 'Antes e depois, aluna 2' },
+    { caption: 'Antes e depois, aluna 3' },
+    { caption: 'Antes e depois, aluna 4' },
+    { caption: 'Antes e depois, aluna 5' },
   ];
 
   protected toggleMenu(): void {
